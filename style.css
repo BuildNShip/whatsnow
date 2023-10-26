@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.clock {
+    text-align: center;
+}
+
+#time {
+    font-size: 36px;
+}
+
+#date {
+    font-size: 18px;
+}
